@@ -12,6 +12,6 @@ The core of this is a custom PyTorch "Fusion-Net" that forces two distinct intel
 The repository is structured as a sequential pipeline. Ensure your `master_images/` folder and `final_war_dataset_PERFECT.json` are in the root directory.
 
 1. First execute the twitter_scrape.py file
-2. Then execute the cells in '''Webscrapping.ipnyb'''
-3. Next execute the cells in '''Master_Dataset_Creation_Program.ipnyb'''
-4. Then execute the cells in '''Training.ipnyb''' to complete the pipeline
+2. Then execute the cells in `Webscrapping.ipnyb`
+3. Next execute the cells in `Master_Dataset_Creation_Program.ipnyb`
+4. Then execute the cells in `Training.ipnyb` to complete the pipeline
